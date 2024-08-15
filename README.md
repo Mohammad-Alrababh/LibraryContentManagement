@@ -32,6 +32,12 @@ dotnet run --project Library
 ```sh
 dotnet test LibraryTests
 ```
+### Instructions for Compilation and Execution
+
+To compile and run the source code locally, follow these steps:
+1. Clone the repository to your local machine.
+2. Open the solution in your preferred C# IDE (e.g., Visual Studio).
+3. Build the solution and execute the application.
 
 ## Project Overview
 
